@@ -21,7 +21,7 @@ This is where I keep the tools, experiments and circuit designs I've worked on. 
 | 项目 / Project | 做了什么 / What it's about |
 | --- | --- |
 | [FlaShop](https://github.com/Flapflops3/flashop) | 从分类、商品到注册登录，用一个本地商城练习 Flask、表单和数据库。<br>A local shop demo for working with Flask, forms, sessions and a database. |
-| [FlaGaze](https://github.com/Flapflops3/flagaze) | 把物理坐标和屏幕像素的关系写清楚，再用合成点观察聚类结果。<br>Coordinate transforms and clustering, explored through repeatable synthetic examples. |
+| [FlaGaze](https://github.com/Flapflops3/flagaze) | 面向 ASD 相关视觉注意研究的眼动分析原型，当前提供坐标换算与合成点聚类演示。<br>A gaze-analysis prototype for ASD-related visual-attention research, with runnable coordinate transforms and synthetic clustering. |
 | [Optimization Notes](https://github.com/Flapflops3/optimization-notes) | 从旅行商路线到数值函数，观察搜索方法怎样更新候选解。<br>Small experiments with route optimization and numerical search. |
 | [Circuit Designs](https://github.com/Flapflops3/circuit-designs) | LED、流水灯、PCB 布局和鱼缸控制的四份 EDA 工程。<br>Four EDA projects covering lighting, board layout and aquarium control. |
 | [Ticket Browser](https://github.com/Flapflops3/ticket-browser) | 一份 Selenium 流程练习，默认检查配置，订单交由用户手动核对。<br>A Selenium workflow exercise with offline configuration checks and manual order review. |
