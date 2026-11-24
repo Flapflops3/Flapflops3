@@ -20,6 +20,8 @@ This is where I keep the tools, experiments and circuit designs I've worked on. 
 
 | 项目 / Project | 做了什么 / What it's about |
 | --- | --- |
+| [SplitDesk Stereo](https://github.com/Flapflops3/splitdesk-stereo) | 把 Moonlight 客户端与 Windows 扬声器组成左右声道，可分别调音量并应用六段 EQ。<br>A two-device stereo mixer for Sunshine and Moonlight. |
+| [Japanese Rhinoceros Beetle](https://github.com/Flapflops3/japanese-rhinoceros-beetle) | 可下载的独角仙 GLB 动画模型，含爬行和展翅预览。<br>An animated Japanese rhinoceros beetle model with walking and wing-opening previews. |
 | [FlaShop](https://github.com/Flapflops3/flashop) | 从分类、商品到注册登录，用一个本地商城练习 Flask、表单和数据库。<br>A local shop demo for working with Flask, forms, sessions and a database. |
 | [FlaGaze](https://github.com/Flapflops3/flagaze) | 面向 ASD 相关视觉注意研究的眼动分析原型，当前提供坐标换算与合成点聚类演示。<br>A gaze-analysis prototype for ASD-related visual-attention research, with runnable coordinate transforms and synthetic clustering. |
 | [Optimization Notes](https://github.com/Flapflops3/optimization-notes) | 从旅行商路线到数值函数，观察搜索方法怎样更新候选解。<br>Small experiments with route optimization and numerical search. |
